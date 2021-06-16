@@ -1,0 +1,864 @@
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.exe.config
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.exe
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.pdb
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.csprojResolveAssemblyReference.cache
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.Form1.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.Properties.Resources.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.csproj.GenerateResource.Cache
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.exe.licenses
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.exe
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.pdb
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmSanPham.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmKhachHang.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmDonViTinh.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmKhuVuc.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmLoaiSanPham.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhaCungCap.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhaSanXuat.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Design.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Layout.Design.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Layout.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar2.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.Instrumentation.Design.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.Instrumentation.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.SuperGrid.Design.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.TreeGX.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Data.v15.1.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Utils.v15.1.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraBars.v15.1.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\Microsoft.CSharp.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Layout.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar2.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.Instrumentation.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Data.v15.1.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Utils.v15.1.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraBars.v15.1.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.exe.config
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.exe
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.pdb
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Design.dll
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Layout.Design.dll
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Layout.dll
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar2.dll
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.Instrumentation.Design.dll
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.Instrumentation.dll
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.SuperGrid.Design.dll
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.TreeGX.dll
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\Microsoft.CSharp.dll
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Layout.xml
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar2.xml
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.Instrumentation.xml
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.Form1.resources
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmChuyenKho.resources
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmDonViTinh.resources
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmImportExcel.resources
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmKhachHang.resources
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmKho.resources
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmKhuVuc.resources
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmLoaiSanPham.resources
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmLogin.resources
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhaCungCap.resources
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhapKho.resources
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhaSanXuat.resources
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmSanPham.resources
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmTimKiemSanPham.resources
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmXuatKho.resources
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.Properties.Resources.resources
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.csproj.GenerateResource.Cache
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.exe.licenses
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.exe
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.pdb
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmTimMaPhieu.resources
+E:\0.6.WinFrom\QuanLiKhoBanHang2\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.csprojResolveAssemblyReference.cache
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.exe.config
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.exe
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.pdb
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.exe
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.pdb
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Design.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Layout.Design.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Layout.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar2.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.Instrumentation.Design.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.Instrumentation.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.SuperGrid.Design.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.TreeGX.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Data.v15.1.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Utils.v15.1.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraBars.v15.1.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\Microsoft.CSharp.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Layout.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar2.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.Instrumentation.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Data.v15.1.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Utils.v15.1.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraBars.v15.1.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.Form1.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmChuyenKho.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmDonViTinh.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmImportExcel.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmKhachHang.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmKho.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmKhuVuc.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmLoaiSanPham.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmLogin.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhaCungCap.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhapKho.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhaSanXuat.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmSanPham.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmTimKiemSanPham.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmTimMaPhieu.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmXuatKho.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.Properties.Resources.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.csproj.GenerateResource.Cache
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.exe.licenses
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmStock.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_30.11\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.csprojResolveAssemblyReference.cache
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.exe.config
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.exe
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.pdb
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.exe
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.pdb
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Design.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Layout.Design.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Layout.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar2.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.Instrumentation.Design.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.Instrumentation.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.SuperGrid.Design.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.TreeGX.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Data.v15.1.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Utils.v15.1.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraBars.v15.1.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\Microsoft.CSharp.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Layout.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar2.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.Instrumentation.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Data.v15.1.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Utils.v15.1.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraBars.v15.1.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.csprojResolveAssemblyReference.cache
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.Form1.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmChuyenKho.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmDonViTinh.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmImportExcel.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmKhachHang.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmKho.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmKhuVuc.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmLoaiSanPham.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmLogin.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhaCungCap.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhapKho.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhaSanXuat.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmSanPham.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmStock.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmTimKiemSanPham.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmTimMaPhieu.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmXuatKho.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.Properties.Resources.resources
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.csproj.GenerateResource.Cache
+E:\0.2.PROJECT\0.3.WinForm\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.exe.licenses
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.exe.config
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.exe
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.pdb
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.exe
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.pdb
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Design.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Layout.Design.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Layout.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar2.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.Instrumentation.Design.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.Instrumentation.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.SuperGrid.Design.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.TreeGX.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\Microsoft.CSharp.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Layout.xml
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar2.xml
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.Instrumentation.xml
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Data.v15.1.xml
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Utils.v15.1.xml
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraBars.v15.1.xml
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.csprojResolveAssemblyReference.cache
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.Form1.resources
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmChuyenKho.resources
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmDonViTinh.resources
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmImportExcel.resources
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmKhachHang.resources
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmKho.resources
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmKhuVuc.resources
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmLoaiSanPham.resources
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmLogin.resources
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhaCungCap.resources
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhapKho.resources
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhaSanXuat.resources
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmSanPham.resources
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmStock.resources
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmTimKiemSanPham.resources
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmTimMaPhieu.resources
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmXuatKho.resources
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.Properties.Resources.resources
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.csproj.GenerateResource.Cache
+E:\HOC TAP\KY 1 NAM 2\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.exe.licenses
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.exe.config
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.exe
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.pdb
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.exe
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.pdb
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\Microsoft.CSharp.dll
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Layout.xml
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar2.xml
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.Instrumentation.xml
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Data.v15.1.xml
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Utils.v15.1.xml
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraBars.v15.1.xml
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.csprojResolveAssemblyReference.cache
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.Form1.resources
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmChuyenKho.resources
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmDonViTinh.resources
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmImportExcel.resources
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmKhachHang.resources
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmKho.resources
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmKhuVuc.resources
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmLoaiSanPham.resources
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmLogin.resources
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhaCungCap.resources
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhapKho.resources
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhaSanXuat.resources
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmSanPham.resources
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmStock.resources
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmTimKiemSanPham.resources
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmTimMaPhieu.resources
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmXuatKho.resources
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.Properties.Resources.resources
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.csproj.GenerateResource.Cache
+D:\THANH\HOC TAP\ThietKeGiaoDienNguoiSuDung\QuanLiKhoBanHang_Final\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.exe.licenses
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.exe.config
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.exe
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang_14.12.2016\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.pdb
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.exe.config
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.exe
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.pdb
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraBars.v16.1.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\Microsoft.CSharp.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Layout.xml
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraBars.v16.1.xml
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.csprojResolveAssemblyReference.cache
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.Form1.resources
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmChuyenKho.resources
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmDonViTinh.resources
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmImportExcel.resources
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmKhachHang.resources
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmKho.resources
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmKhuVuc.resources
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmLoaiSanPham.resources
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmLogin.resources
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhaCungCap.resources
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhapKho.resources
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhaSanXuat.resources
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmSanPham.resources
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmStock.resources
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmTimKiemSanPham.resources
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmTimMaPhieu.resources
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmXuatKho.resources
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.Properties.Resources.resources
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.csproj.GenerateResource.Cache
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.exe.licenses
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.exe
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.pdb
+C:\Users\ngochithanhtk\Desktop\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmHoaDonBanHang.resources
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.exe.config
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.exe
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.pdb
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.exe
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.pdb
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Data.v16.1.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Utils.v16.1.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraBars.v16.1.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\Microsoft.CSharp.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Layout.xml
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar2.xml
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.Instrumentation.xml
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Data.v16.1.xml
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Utils.v16.1.xml
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraBars.v16.1.xml
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.Form1.resources
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmChuyenKho.resources
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmDonViTinh.resources
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmHoaDonBanHang.resources
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmImportExcel.resources
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmKhachHang.resources
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmKho.resources
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmKhuVuc.resources
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmLoaiSanPham.resources
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmLogin.resources
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhaCungCap.resources
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhapKho.resources
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhaSanXuat.resources
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmSanPham.resources
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmStock.resources
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmTimKiemSanPham.resources
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmTimMaPhieu.resources
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmXuatKho.resources
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.Properties.Resources.resources
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.csproj.GenerateResource.Cache
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.exe.licenses
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.csproj.ResolveComReference.cache
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmTimKiemKhachHang.resources
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Design.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Layout.Design.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar2.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.Instrumentation.Design.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.Instrumentation.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.SuperGrid.Design.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.TreeGX.dll
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmTimMaSanPham.resources
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.PrintRibbonControllerResources.resources
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmInHoaDon.resources
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.csprojResolveAssemblyReference.cache
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmDoiMatKhau.resources
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhanVien.resources
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhapKhoK.resources
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmTimKiemPhieuNhapKho.resources
+D:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmXuatKhoK.resources
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.exe.config
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.csproj.ResolveComReference.cache
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.exe
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.pdb
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.Form1.resources
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmDoiMatKhau.resources
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmDonViTinh.resources
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmHoaDonBanHang.resources
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmImportExcel.resources
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmInHoaDon.resources
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmKhachHang.resources
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmKhuVuc.resources
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmLoaiSanPham.resources
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmLogin.resources
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhaCungCap.resources
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhanVien.resources
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhapKhoK.resources
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhaSanXuat.resources
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmSanPham.resources
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmTimKiemKhachHang.resources
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmTimKiemPhieuNhapKho.resources
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmTimMaSanPham.resources
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmXuatKhoK.resources
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.PrintRibbonControllerResources.resources
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.Properties.Resources.resources
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.csproj.GenerateResource.Cache
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.exe.licenses
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.exe
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.pdb
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Design.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Layout.Design.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Layout.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar2.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.Instrumentation.Design.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.Instrumentation.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.SuperGrid.Design.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.TreeGX.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Data.v16.1.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Utils.v16.1.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraBars.v16.1.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\Microsoft.CSharp.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Layout.xml
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar2.xml
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.Instrumentation.xml
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Data.v16.1.xml
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Utils.v16.1.xml
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraBars.v16.1.xml
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.csprojResolveAssemblyReference.cache
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmTimKiemPhieuXuatKho.resources
+E:\THANH\HOC TAP\DO AN TOT NGHIEP\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmThongKe.resources
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.exe.config
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.csproj.ResolveComReference.cache
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.exe
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.pdb
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.exe
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.pdb
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Design.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Layout.Design.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.Instrumentation.Design.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.SuperGrid.Design.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.TreeGX.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraBars.v16.1.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraLayout.v16.1.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraTreeList.v16.1.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\Microsoft.CSharp.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Layout.xml
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraBars.v16.1.xml
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.csprojResolveAssemblyReference.cache
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.Form1.resources
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmAcount.resources
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmDoiMatKhau.resources
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmDonViTinh.resources
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmHoaDonBanHang.resources
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmImportExcel.resources
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmInHoaDon.resources
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmKhachHang.resources
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmKhuVuc.resources
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmLoaiSanPham.resources
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmLogin.resources
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhaCungCap.resources
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhanVien.resources
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhapKhoK.resources
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhaSanXuat.resources
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmSanPham.resources
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmThongKe.resources
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmTimKiemKhachHang.resources
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmTimKiemPhieuNhapKho.resources
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmTimKiemPhieuXuatKho.resources
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmTimMaSanPham.resources
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmXuatKhoK.resources
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.PrintRibbonControllerResources.resources
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.Properties.Resources.resources
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.csproj.GenerateResource.Cache
+C:\Users\ThanhTK\Desktop\THANHTK\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.exe.licenses
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.csprojAssemblyReference.cache
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.csproj.ResolveComReference.cache
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.Form1.resources
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmAcount.resources
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmLoaiSanPham.resources
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhanVien.resources
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhapKhoK.resources
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmNhaSanXuat.resources
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmSanPham.resources
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmThongKe.resources
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmTimMaSanPham.resources
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmXuatKhoK.resources
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.Properties.Resources.resources
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.csproj.GenerateResource.cache
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.exe
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.pdb
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.exe.config
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.exe
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\QuanLiKhoBanHang.pdb
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\Microsoft.CSharp.dll
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Layout.xml
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.DotNetBar2.xml
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevComponents.Instrumentation.xml
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Data.v16.1.xml
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.Utils.v16.1.xml
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraBars.v16.1.xml
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraLayout.v16.1.xml
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\DevExpress.XtraTreeList.v16.1.xml
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraBars.v16.1.resources.dll
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraBars.v16.1.resources.dll
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraBars.v16.1.resources.dll
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraBars.v16.1.resources.dll
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraLayout.v16.1.resources.dll
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraLayout.v16.1.resources.dll
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraLayout.v16.1.resources.dll
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraLayout.v16.1.resources.dll
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\de\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\es\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ja\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\bin\Debug\ru\DevExpress.XtraTreeList.v16.1.resources.dll
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.csproj.CoreCompileInputs.cache
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.csproj.CopyComplete
+E:\Quan li kho\QuanLiKhoBanHang\QuanLiKhoBanHang\obj\Debug\QuanLiKhoBanHang.frmHuongDan.resources
