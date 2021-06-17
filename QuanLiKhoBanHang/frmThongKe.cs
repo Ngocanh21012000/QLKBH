@@ -39,12 +39,44 @@ namespace QuanLiKhoBanHang
        
         private void btnTimKiem_Click(object sender, EventArgs e)
         {
-            
-                                      
-            
-            
-               
-                
+            if (rdTonKhoHienTai.Checked == true)
+            {
+                if (txtTimKiem.Text == "")
+                {
+                    string timkiem = "SELECT nhap.MaSanPham, nhap.TenSanPham, nhap.SoLuongNhap, xuat.SoLuongXuat, (ISNULL(SoLuongNhap,0) - ISNULL(SoLuongXuat,0)) as SoLuongTon FROM (SELECT tblNHAPKHO_K.MaSanPham, tblNHAPKHO_K.TenSanPham, SUM(tblNHAPKHO_K.SoLuong) as SoLuongNhap FROM tblNHAPKHO_K GROUP BY tblNHAPKHO_K.MaSanPham, tblNHAPKHO_K.TenSanPham) as nhap LEFT JOIN (SELECT tblXUATKHO_K.MaSanPham, SUM(tblXUATKHO_K.SoLuong) as SoLuongXuat FROM tblXUATKHO_K GROUP BY tblXUATKHO_K.MaSanPham) as xuat ON nhap.MaSanPham = xuat.MaSanPham ";
+                    var dt_timkiem = Dataconn.DataTable_Sql(timkiem);
+                    if (dt_timkiem.Rows.Count > 0)
+                    {
+                        dgvThongTinPhieuNhapKho.DataSource = dt_timkiem;
+                    }
+                    else
+                    {
+                        MessageBox.Show("Không tìm thấy bản ghi phù hợp!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Stop);
+                        while (dgvThongTinPhieuNhapKho.Rows.Count > 0)
+                        {
+                            dgvThongTinPhieuNhapKho.Rows.RemoveAt(0);
+                        }
+                    }
+                }
+                else
+                {
+                    string timkiemTonKho = "SELECT nhap.MaSanPham, nhap.TenSanPham, nhap.SoLuongNhap, xuat.SoLuongXuat, (ISNULL(SoLuongNhap,0) - ISNULL(SoLuongXuat,0)) as SoLuongTon FROM (SELECT tblNHAPKHO_K.MaSanPham, tblNHAPKHO_K.TenSanPham, SUM(tblNHAPKHO_K.SoLuong) as SoLuongNhap FROM tblNHAPKHO_K GROUP BY tblNHAPKHO_K.MaSanPham, tblNHAPKHO_K.TenSanPham) as nhap LEFT JOIN (SELECT tblXUATKHO_K.MaSanPham, SUM(tblXUATKHO_K.SoLuong) as SoLuongXuat FROM tblXUATKHO_K GROUP BY tblXUATKHO_K.MaSanPham) as xuat ON nhap.MaSanPham = xuat.MaSanPham WHERE nhap.MaSanPham ='" + txtTimKiem.Text.Trim().Replace("'", "") + "'";
+                    var dt_timkiemTonKho = Dataconn.DataTable_Sql(timkiemTonKho);
+                    if (dt_timkiemTonKho.Rows.Count > 0)
+                    {
+                        dgvThongTinPhieuNhapKho.DataSource = dt_timkiemTonKho;
+                    }
+                    else
+                    {
+                        MessageBox.Show("Không tìm thấy bản ghi phù hợp!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Stop);
+                        while (dgvThongTinPhieuNhapKho.Rows.Count > 0)
+                        {
+                            dgvThongTinPhieuNhapKho.Rows.RemoveAt(0);
+                        }
+                        txtTimKiem.ResetText();
+                    }
+                }
+            }
         }
 
         private void dgvThongTinPhieuNhapKho_CellContentClick(object sender, DataGridViewCellEventArgs e)
