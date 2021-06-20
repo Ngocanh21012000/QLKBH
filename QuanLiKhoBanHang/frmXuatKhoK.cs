@@ -228,11 +228,6 @@ namespace QuanLiKhoBanHang
             }
         }
 
-        
-      
-       
-        
-
         private void txtSoLuong_TextChanged(object sender, EventArgs e)
         {
             int i = 0;
@@ -270,6 +265,43 @@ namespace QuanLiKhoBanHang
 
         private void btnThem_Click(object sender, EventArgs e)
         {
+            if (txtSoPhieu.Text.Trim() == "" || cbMaNhanVien.Text == "" || dgvThongTinSanPham.Rows.Count < 1)
+            {
+                MessageBox.Show("Thông tin phiếu xuất kho không đầy đủ!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+
+            else
+            {
+                var ktra_ID = Dataconn.DataTable_Sql("SELECT * FROM tblXUATKHO_K WHERE SoPhieu ='" + txtSoPhieu.Text.Trim() + "'");
+                if (ktra_ID.Rows.Count > 0)
+                {
+                    MessageBox.Show("Trùng số phiếu, hãy kiểm tra lại!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Stop);
+                }
+                else
+                {
+                    for (int i = 0; i < dgvThongTinSanPham.Rows.Count; i++)
+                    {
+                        String insert = "INSERT INTO tblXUATKHO_K(SoPhieu, NgayXuat, MaNhanVien, TenNhanVien, DiaChi, SoDienThoai, MaSanPham, TenSanPham, DonGia, SoLuong,ThanhTien) VALUES ('";
+
+                        insert += txtSoPhieu.Text.Trim() + "','";
+                        insert += dateTimePicker1.Value.Date.ToString("yyyyMMdd") + "','";
+                        insert += cbMaNhanVien.SelectedValue.ToString() + "',N'";
+                        insert += txtTenNhanVien.Text.Trim() + "','";
+
+                        insert += dgvThongTinSanPham.Rows[i].Cells["MaSanPham"].Value.ToString() + "',N'";
+                        insert += dgvThongTinSanPham.Rows[i].Cells["TenSanPham"].Value.ToString() + "','";
+                        insert += dgvThongTinSanPham.Rows[i].Cells["DonGia"].Value.ToString() + "',N'";
+                        insert += dgvThongTinSanPham.Rows[i].Cells["SoLuong"].Value.ToString() + "',N'";
+                        insert += dgvThongTinSanPham.Rows[i].Cells["ThanhTien"].Value.ToString() + "')";
+                        //string sGhichu = dgvThongTinSanPham.Rows[i].Cells["GhiChu"].Value==null ? string.Empty : dgvThongTinSanPham.Rows[i].Cells["GhiChu"].Value.ToString();
+                        //insert += sGhichu + "')";
+                        Dataconn.Execute_NonSQL(insert);
+                    }
+                    MessageBox.Show("Thêm phiếu xuất kho thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+
+            }
+            CheckBoxTaoSoPhieu.Checked = false;
         }
 
        
