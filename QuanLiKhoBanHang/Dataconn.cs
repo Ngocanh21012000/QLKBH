@@ -20,7 +20,7 @@ namespace QuanLiKhoBanHang
         static Dataconn()
           
         {
-            source = @"Data Source=DESKTOP-152SFQ3;Initial Catalog=QLKBH_HK;Integrated Security=True";
+            source = @"Data Source=DESKTOP-3PP3KKO;Initial Catalog=QLKBH_HK;Integrated Security=True";
             con = new SqlConnection(source);
             if (con.State == ConnectionState.Open)
             {

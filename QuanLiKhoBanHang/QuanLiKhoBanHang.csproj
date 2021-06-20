@@ -227,6 +227,19 @@
     <Compile Include="frmXuatKhoK.Designer.cs">
       <DependentUpon>frmXuatKhoK.cs</DependentUpon>
     </Compile>
+    <Compile Include="Helpers\Helper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Helpers\Helper.designer.cs">
+      <DependentUpon>Helper.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Helpers\HelpPictureBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Helpers\HelpPictureBox.designer.cs">
+      <DependentUpon>HelpPictureBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Helpers\Utilities.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -261,6 +274,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmXuatKhoK.resx">
       <DependentUpon>frmXuatKhoK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Helpers\Helper.resx">
+      <DependentUpon>Helper.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Helpers\HelpPictureBox.resx">
+      <DependentUpon>HelpPictureBox.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

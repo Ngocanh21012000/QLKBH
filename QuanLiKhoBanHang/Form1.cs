@@ -17,6 +17,17 @@ namespace QuanLiKhoBanHang
         public Form1()
         {
             InitializeComponent();
+            KeyPreview = true;
+            KeyDown += new KeyEventHandler(Form_KeyDown);
+        }
+
+        private void Form_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode.ToString() == "F1")
+            {
+                var helperDialog = new Helpers.Helper();
+                helperDialog.ShowDialog();
+            }
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -155,9 +166,8 @@ namespace QuanLiKhoBanHang
 
         private void buttonItem8_Click(object sender, EventArgs e)
         {
-            frmHuongDan frmhd = new frmHuongDan();
-            frmhd.ShowDialog();
-
+            var helperDialog = new Helpers.Helper();
+            helperDialog.ShowDialog();
         }
     }
 }
