@@ -213,6 +213,59 @@ namespace QuanLiKhoBanHang
 
         private void btnTimKiem_Click(object sender, EventArgs e)
         {
+            if (txtTimKiem.Text.Trim() == "" && txttugia.Text.Trim() == "" && txtdengia.Text.Trim() == "")
+            {
+                MessageBox.Show("Chưa nhập thông tin tìm kiếm!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Stop);
+
+                txtTimKiem.Focus();
+            }
+            else
+            {
+                if (txttugia.Text.Trim() != "" && txtdengia.Text.Trim() != "" && txtTimKiem.Text.Trim() == "")
+                {
+                    var timkiemtheogia = "SELECT  sp.IDSanPham, sp.MaSanPham, sp.TenSanPham, lsp.TenLoaiSanPham, nsx.TenNSX,  sp.GiaNhap, sp.GiaBanLe,  sp.GhiChu";
+                    timkiemtheogia += "   FROM    tblSANPHAM sp inner join tblNHASANXUAT nsx on sp.MaNhaSanXuat = nsx.MaNSX  inner join tblLOAISANPHAM lsp on sp.MaLoaiSanPham = lsp.MaLoaiSanPham    ";
+                    timkiemtheogia += "   WHERE   sp.Giabanle BETWEEN " + txttugia.Text.Trim().Replace("'", "") + " AND " + txtdengia.Text.Trim().Replace("'", "") + "  ORDER BY sp.IDSanPham";
+                    var dt_timkiemtheogia = Dataconn.DataTable_Sql(timkiemtheogia);
+                    if (dt_timkiemtheogia.Rows.Count == 0)
+                    {
+                        MessageBox.Show("Không tìm thấy bản ghi nào!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Stop);
+                        while (dgvSanPham.Rows.Count > 0)
+                        {
+                            dgvSanPham.Rows.RemoveAt(0);
+                        }
+                    }
+                    else dgvSanPham.DataSource = dt_timkiemtheogia;
+                }
+
+                else if (txtTimKiem.Text.Trim() != "" && txttugia.Text.Trim() == "" && txtdengia.Text.Trim() == "")
+                {
+                    var timkiem = "SELECT  sp.IDSanPham, sp.MaSanPham, sp.TenSanPham, lsp.TenLoaiSanPham, nsx.TenNSX, sp.GiaNhap, sp.GiaBanLe,  sp.GhiChu";
+                    timkiem += "   FROM    tblSANPHAM sp inner join tblNHASANXUAT nsx on sp.MaNhaSanXuat = nsx.MaNSX  inner join tblLOAISANPHAM lsp on sp.MaLoaiSanPham = lsp.MaLoaiSanPham    ";
+                    timkiem += "   WHERE    sp.MaSanPham LIKE N'%" + txtTimKiem.Text + "%' OR sp.TenSanPham LIKE N'%" + txtTimKiem.Text + "%' OR lsp.TenLoaiSanPham LIKE N'%" + txtTimKiem.Text + "%' OR nsx.TenNSX LIKE N'%" + txtTimKiem.Text + "%'";
+                    var dt_timkiem = Dataconn.DataTable_Sql(timkiem);
+                    if (dt_timkiem.Rows.Count == 0)
+                    {
+                        MessageBox.Show("Không tìm thấy bản ghi nào!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Stop);
+                        while (dgvSanPham.Rows.Count > 0)
+                        {
+                            dgvSanPham.Rows.RemoveAt(0);
+                        }
+                    }
+                    else dgvSanPham.DataSource = dt_timkiem;
+
+                }
+                else
+                {
+                    MessageBox.Show("Nhập thông tin tìm kiếm không hợp lệ!", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    while (dgvSanPham.Rows.Count > 0)
+                    {
+                        dgvSanPham.Rows.RemoveAt(0);
+                    }
+                }
+            }
+
+            Xoa_txt();
         }
 
         private void txttugia_TextChanged(object sender, EventArgs e)

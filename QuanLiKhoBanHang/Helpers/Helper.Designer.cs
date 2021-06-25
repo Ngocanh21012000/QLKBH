@@ -31,6 +31,7 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.statsBTN = new System.Windows.Forms.Button();
             this.panel8 = new System.Windows.Forms.Panel();
             this.panel9 = new System.Windows.Forms.Panel();
             this.svDel = new System.Windows.Forms.Button();
@@ -44,6 +45,7 @@
             this.addCsHelperBTN = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
+            this.searchBTN = new System.Windows.Forms.Button();
             this.panel5 = new System.Windows.Forms.Panel();
             this.delRHelperBTN = new System.Windows.Forms.Button();
             this.editRHelperBTN = new System.Windows.Forms.Button();
@@ -51,8 +53,6 @@
             this.label2 = new System.Windows.Forms.Label();
             this.panel4 = new System.Windows.Forms.Panel();
             this.helpBox = new Helpers.HelpPictureBox();
-            this.searchBTN = new System.Windows.Forms.Button();
-            this.statsBTN = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel8.SuspendLayout();
@@ -101,6 +101,20 @@
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(192, 506);
             this.panel2.TabIndex = 1;
+            // 
+            // statsBTN
+            // 
+            this.statsBTN.BackColor = System.Drawing.SystemColors.Control;
+            this.statsBTN.Dock = System.Windows.Forms.DockStyle.Top;
+            this.statsBTN.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.statsBTN.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.statsBTN.Location = new System.Drawing.Point(0, 269);
+            this.statsBTN.Name = "statsBTN";
+            this.statsBTN.Size = new System.Drawing.Size(192, 51);
+            this.statsBTN.TabIndex = 3;
+            this.statsBTN.Text = "Thống kê";
+            this.statsBTN.UseVisualStyleBackColor = false;
+            this.statsBTN.Click += new System.EventHandler(this.statsBTN_Click);
             // 
             // panel8
             // 
@@ -277,6 +291,20 @@
             this.panel3.Size = new System.Drawing.Size(192, 118);
             this.panel3.TabIndex = 0;
             // 
+            // searchBTN
+            // 
+            this.searchBTN.BackColor = System.Drawing.SystemColors.Control;
+            this.searchBTN.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.searchBTN.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.searchBTN.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.searchBTN.Location = new System.Drawing.Point(0, 67);
+            this.searchBTN.Name = "searchBTN";
+            this.searchBTN.Size = new System.Drawing.Size(192, 51);
+            this.searchBTN.TabIndex = 2;
+            this.searchBTN.Text = "Tìm kiếm";
+            this.searchBTN.UseVisualStyleBackColor = false;
+            this.searchBTN.Click += new System.EventHandler(this.searchBTN_Click);
+            // 
             // panel5
             // 
             this.panel5.BackColor = System.Drawing.SystemColors.Control;
@@ -365,34 +393,6 @@
             this.helpBox.Name = "helpBox";
             this.helpBox.Size = new System.Drawing.Size(690, 506);
             this.helpBox.TabIndex = 0;
-            // 
-            // searchBTN
-            // 
-            this.searchBTN.BackColor = System.Drawing.SystemColors.Control;
-            this.searchBTN.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.searchBTN.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.searchBTN.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.searchBTN.Location = new System.Drawing.Point(0, 67);
-            this.searchBTN.Name = "searchBTN";
-            this.searchBTN.Size = new System.Drawing.Size(192, 51);
-            this.searchBTN.TabIndex = 2;
-            this.searchBTN.Text = "Tìm kiếm";
-            this.searchBTN.UseVisualStyleBackColor = false;
-            this.searchBTN.Click += new System.EventHandler(this.searchBTN_Click);
-            // 
-            // statsBTN
-            // 
-            this.statsBTN.BackColor = System.Drawing.SystemColors.Control;
-            this.statsBTN.Dock = System.Windows.Forms.DockStyle.Top;
-            this.statsBTN.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.statsBTN.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.statsBTN.Location = new System.Drawing.Point(0, 269);
-            this.statsBTN.Name = "statsBTN";
-            this.statsBTN.Size = new System.Drawing.Size(192, 51);
-            this.statsBTN.TabIndex = 3;
-            this.statsBTN.Text = "Thống kê";
-            this.statsBTN.UseVisualStyleBackColor = false;
-            this.statsBTN.Click += new System.EventHandler(this.statsBTN_Click);
             // 
             // Helper
             // 
