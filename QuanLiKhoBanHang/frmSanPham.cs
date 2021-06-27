@@ -25,9 +25,9 @@ namespace QuanLiKhoBanHang
             var dt_NhomSP = Dataconn.DataTable_Sql("SELECT * FROM tblLOAISANPHAM ORDER BY IDLoaiSP DESC");
             if (dt_NhomSP.Rows.Count>0)
             {
-                cbNhomSP.DataSource = dt_NhomSP;
-                cbNhomSP.DisplayMember = "TenLoaiSanPham";
-                cbNhomSP.ValueMember = "MaLoaiSanPham";
+                cbLoaisp.DataSource = dt_NhomSP;
+                cbLoaisp.DisplayMember = "TenLoaiSanPham";
+                cbLoaisp.ValueMember = "MaLoaiSanPham";
             }
         }
         private void GetNhaSX()
@@ -167,7 +167,35 @@ namespace QuanLiKhoBanHang
 
         private void btnThem_Click(object sender, EventArgs e)
         {
-            
+            if (txtMasp.Text.Trim() != "" && txtTenSanPham.Text.Trim() != "")
+            {
+                var ktra_ID = Dataconn.DataTable_Sql("SELECT * FROM tblSANPHAM WHERE MaSanPham='" + txtMasp.Text.Trim() + "'");
+                if (ktra_ID.Rows.Count > 0)
+                {
+                    MessageBox.Show("Trùng mã sản phẩm, hãy kiểm tra lại!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Stop);
+                    txtMasp.Text = "";
+                    txtMasp.Focus();
+                }
+                else if (txtGiaNhap.Text.Trim() == "" && txtGiaBanLe.Text.Trim() == "")
+                {
+                    MessageBox.Show("Bạn phải nhập đầy đủ thông tin giá của Sản phẩm!", "Cảnh báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                }
+                else
+                {
+                    string insert = "insert into tblSANPHAM(MaSanPham,TenSanPham,MaNhaSanXuat,MaLoaiSanPham,GiaNhap,GiaBanLe,GhiChu) VALUES(";
+                    insert += "N'" + txtMasp.Text.Trim() + "',N'" + txtTenSanPham.Text.Trim() + "','" + cbLoaisp.SelectedValue.ToString() + "','" + cbNhaSX.SelectedValue.ToString() + "',N'" + txtGiaNhap.Text.Trim() + "',N'" + txtGiaBanLe.Text.Trim() + "',N'" + txtGhiChu.Text.Trim() + "')";
+                    Dataconn.Execute_NonSQL(insert);
+                    MessageBox.Show("Thêm mới bản ghi thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    load_SanPham();
+                    Xoa_txt();
+                }
+            }
+            else
+            {
+                MessageBox.Show("Chưa thêm mới bản ghi!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Stop);
+            }
+            checkBox1.Checked = false;
+
         }
 
         private void btnSua_Click(object sender, EventArgs e)
@@ -196,7 +224,7 @@ namespace QuanLiKhoBanHang
                 lbID.Text = dgvSanPham.Rows[e.RowIndex].Cells["IDSanPham"].Value.ToString();
                 txtMasp.Text = dgvSanPham.Rows[e.RowIndex].Cells["MaSanPham"].Value.ToString();
                 txtTenSanPham.Text = dgvSanPham.Rows[e.RowIndex].Cells["TenSanPham"].Value.ToString();
-                cbNhomSP.Text = dgvSanPham.Rows[e.RowIndex].Cells["TenLoaiSanPham"].Value.ToString();
+                cbLoaisp.Text = dgvSanPham.Rows[e.RowIndex].Cells["TenLoaiSanPham"].Value.ToString();
                 cbNhaSX.Text = dgvSanPham.Rows[e.RowIndex].Cells["TenNSX"].Value.ToString();
                
                 txtGiaNhap.Text = dgvSanPham.Rows[e.RowIndex].Cells["GiaNhap"].Value.ToString();
@@ -296,7 +324,7 @@ namespace QuanLiKhoBanHang
         {
             if (e.KeyChar == 13)
             {
-                cbNhomSP.Focus();
+                cbLoaisp.Focus();
 
             }
         }

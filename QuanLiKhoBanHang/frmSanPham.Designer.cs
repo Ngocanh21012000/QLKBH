@@ -41,7 +41,7 @@ namespace QuanLiKhoBanHang
             this.buttonX5 = new DevComponents.DotNetBar.ButtonX();
             this.cbNhaSX = new DevComponents.DotNetBar.Controls.ComboBoxEx();
             this.labelX22 = new DevComponents.DotNetBar.LabelX();
-            this.cbNhomSP = new DevComponents.DotNetBar.Controls.ComboBoxEx();
+            this.cbLoaisp = new DevComponents.DotNetBar.Controls.ComboBoxEx();
             this.txtGiaBanLe = new DevComponents.DotNetBar.Controls.TextBoxX();
             this.txtGiaNhap = new DevComponents.DotNetBar.Controls.TextBoxX();
             this.txtGhiChu = new DevComponents.DotNetBar.Controls.TextBoxX();
@@ -104,7 +104,7 @@ namespace QuanLiKhoBanHang
             this.groupPanel1.Controls.Add(this.buttonX5);
             this.groupPanel1.Controls.Add(this.cbNhaSX);
             this.groupPanel1.Controls.Add(this.labelX22);
-            this.groupPanel1.Controls.Add(this.cbNhomSP);
+            this.groupPanel1.Controls.Add(this.cbLoaisp);
             this.groupPanel1.Controls.Add(this.txtGiaBanLe);
             this.groupPanel1.Controls.Add(this.txtGiaNhap);
             this.groupPanel1.Controls.Add(this.txtGhiChu);
@@ -219,18 +219,18 @@ namespace QuanLiKhoBanHang
             this.labelX22.TabIndex = 4;
             this.labelX22.Text = "Loại sản phẩm";
             // 
-            // cbNhomSP
+            // cbLoaisp
             // 
-            this.cbNhomSP.DisplayMember = "Text";
-            this.cbNhomSP.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
-            this.cbNhomSP.FormattingEnabled = true;
-            this.cbNhomSP.ItemHeight = 15;
-            this.cbNhomSP.Location = new System.Drawing.Point(152, 78);
-            this.cbNhomSP.Name = "cbNhomSP";
-            this.cbNhomSP.Size = new System.Drawing.Size(151, 21);
-            this.cbNhomSP.Style = DevComponents.DotNetBar.eDotNetBarStyle.StyleManagerControlled;
-            this.cbNhomSP.TabIndex = 15;
-            this.cbNhomSP.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.cbNhomSP_KeyPress);
+            this.cbLoaisp.DisplayMember = "Text";
+            this.cbLoaisp.DrawMode = System.Windows.Forms.DrawMode.OwnerDrawFixed;
+            this.cbLoaisp.FormattingEnabled = true;
+            this.cbLoaisp.ItemHeight = 15;
+            this.cbLoaisp.Location = new System.Drawing.Point(152, 78);
+            this.cbLoaisp.Name = "cbLoaisp";
+            this.cbLoaisp.Size = new System.Drawing.Size(151, 21);
+            this.cbLoaisp.Style = DevComponents.DotNetBar.eDotNetBarStyle.StyleManagerControlled;
+            this.cbLoaisp.TabIndex = 15;
+            this.cbLoaisp.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.cbNhomSP_KeyPress);
             // 
             // txtGiaBanLe
             // 
@@ -639,7 +639,7 @@ namespace QuanLiKhoBanHang
             dataGridViewCellStyle4.SelectionForeColor = System.Drawing.SystemColors.WindowText;
             dataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
             this.dgvSanPham.DefaultCellStyle = dataGridViewCellStyle4;
-            this.dgvSanPham.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(170)))), ((int)(((byte)(170)))), ((int)(((byte)(170)))));
+            this.dgvSanPham.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(208)))), ((int)(((byte)(215)))), ((int)(((byte)(229)))));
             this.dgvSanPham.Location = new System.Drawing.Point(61, 342);
             this.dgvSanPham.MultiSelect = false;
             this.dgvSanPham.Name = "dgvSanPham";
@@ -764,7 +764,7 @@ namespace QuanLiKhoBanHang
         private DevComponents.DotNetBar.LabelX labelX1;
         private DevComponents.DotNetBar.Controls.GroupPanel groupPanel1;
         private DevComponents.DotNetBar.Controls.ComboBoxEx cbNhaSX;
-        private DevComponents.DotNetBar.Controls.ComboBoxEx cbNhomSP;
+        private DevComponents.DotNetBar.Controls.ComboBoxEx cbLoaisp;
         private DevComponents.DotNetBar.Controls.TextBoxX txtGiaBanLe;
         private DevComponents.DotNetBar.Controls.TextBoxX txtGiaNhap;
         private DevComponents.DotNetBar.Controls.TextBoxX txtTenSanPham;
