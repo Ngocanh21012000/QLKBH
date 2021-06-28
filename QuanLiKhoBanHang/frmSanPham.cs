@@ -56,10 +56,9 @@ namespace QuanLiKhoBanHang
         }
         private void load_SanPham()
         {//                         0               1           2                       3           4       5           6           7               8
-            string kv = "select sp.IDSanPham, sp.MaSanPham, sp.TenSanPham, lsp.TenLoaiSanPham, nsx.TenNSX, sp.GiaNhap, sp.GiaBanLe, ";
-            kv += "  sp.GhiChu from tblSANPHAM sp inner join tblNHASANXUAT nsx on sp.MaNhaSanXuat = nsx.MaNSX inner join ";
-          
-           kv += " tblLOAISANPHAM lsp on sp.MaLoaiSanPham = lsp.MaLoaiSanPham order by IDSanPham DESC";
+           
+            
+            string kv = "SELECT *  FROM tblSANPHAM ";
             var dt_kv = Dataconn.DataTable_Sql(kv);
             if (dt_kv.Rows.Count > 0)
             {
