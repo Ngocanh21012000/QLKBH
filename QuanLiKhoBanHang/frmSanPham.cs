@@ -55,7 +55,7 @@ namespace QuanLiKhoBanHang
             //dgvSanPham.Columns["GiaBanLe"].DefaultCellStyle.Format = "N0";
         }
         private void load_SanPham()
-        {//                         0               1           2                       3           4       5           6           7               8
+        {//                                   
            
             
             string kv = "SELECT *  FROM tblSANPHAM ";

@@ -19,10 +19,7 @@ namespace QuanLiKhoBanHang
 
         private void frmThongKe_Load(object sender, EventArgs e)
         {
-            //dateTimePicker1.Visible = true;
-            //dateTimePicker1.Value = DateTime.Today;
-            //dateTimePicker2.Visible = true;
-            //dateTimePicker2.Value = DateTime.Today;
+            //
         }
 
         private void rdTonKhoHienTai_CheckedChanged(object sender, EventArgs e)

@@ -27,16 +27,17 @@ namespace QuanLiKhoBanHang
 
         private void load_data_temp()
         {
-            var dt_dataTemp = Dataconn.DataTable_Sql("SELECT k.MaSanPham,k.TenSanPham,,k.DonGia,k.SoLuong,k.ThanhTien,k.ID FROM tblNHAPKHO_K k INNER JOIN tblNHACUNGCAP n ON k.MaNCC = n.MaNCC WHERE k.SoPhieu='" + txtSoPhieu.Text.Trim() + "'");
-            if (dt_dataTemp.Rows.Count > 0)
+            string k = "SELECT *  FROM tblNHAPKHO_K ";
+            var dt_k = Dataconn.DataTable_Sql(k);
+            if (dt_k.Rows.Count > 0)
             {
-                dgvThongTinSanPham.DataSource = dt_dataTemp;
-                //dgvThongTinSanPham.Columns[5].Visible = false;
+                dgvThongTinSanPham.DataSource = dt_k;
             }
             else
             {
                 dgvThongTinSanPham.DataSource = "";
             }
+           
         }
 
         private void frmNhapKhoK_Load(object sender, EventArgs e)
@@ -44,8 +45,10 @@ namespace QuanLiKhoBanHang
             dateTimePicker1.Value = DateTime.Today;
             GetMaNhanVien();
             GetMaSanPham();
-        }
 
+            load_data_temp();
+        }
+        
         private void CheckBoxTaoSoPhieu_CheckedChanged(object sender, EventArgs e)
         {
             if (CheckBoxTaoSoPhieu.Checked == true)
@@ -165,14 +168,7 @@ namespace QuanLiKhoBanHang
 
         private void btnThemSanPham_Click(object sender, EventArgs e)
         {
-            dgvThongTinSanPham.Rows.Add();
-            dgvThongTinSanPham.Rows[dgvThongTinSanPham.Rows.Count - 1].Cells["MaSanPham"].Value = cbMaSanPham.SelectedValue;
-            dgvThongTinSanPham.Rows[dgvThongTinSanPham.Rows.Count - 1].Cells["TenSanPham"].Value = txtTenSanPham.Text;
-            dgvThongTinSanPham.Rows[dgvThongTinSanPham.Rows.Count - 1].Cells["DonGia"].Value = txtDonGia.Text;
-          
-            dgvThongTinSanPham.Rows[dgvThongTinSanPham.Rows.Count - 1].Cells["SoLuong"].Value = txtSoLuong.Text;
-            dgvThongTinSanPham.Rows[dgvThongTinSanPham.Rows.Count - 1].Cells["ThanhTien"].Value = txtThanhTien.Text;
-            xoatxt();
+           
         }
         private void xoatxt()
         {
@@ -186,35 +182,12 @@ namespace QuanLiKhoBanHang
 
         private void btnSuaSanPham_Click(object sender, EventArgs e)
         {
-            if (dgvThongTinSanPham.CurrentRow != null)
-            {
-                dgvThongTinSanPham.CurrentRow.Cells["MaSanPham"].Value = cbMaSanPham.SelectedValue;
-                dgvThongTinSanPham.CurrentRow.Cells["TenSanPham"].Value = txtTenSanPham.Text;
-                dgvThongTinSanPham.CurrentRow.Cells["DonGia"].Value = txtDonGia.Text;
             
-                dgvThongTinSanPham.CurrentRow.Cells["SoLuong"].Value = txtSoLuong.Text;
-                dgvThongTinSanPham.CurrentRow.Cells["ThanhTien"].Value = txtThanhTien.Text;
-                MessageBox.Show("Sửa thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                xoatxt();
-            }
-            else
-            {
-                MessageBox.Show("Chưa chọn bản ghi để sửa!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Stop);
-            }
         }
 
         private void btnXoaSanPham_Click(object sender, EventArgs e)
         {
-            if (dgvThongTinSanPham.CurrentRow != null)
-            {
-                dgvThongTinSanPham.Rows.RemoveAt(dgvThongTinSanPham.CurrentRow.Index);
-                MessageBox.Show("Xóa thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                xoatxt();
-            }
-            else
-            {
-                MessageBox.Show("Chưa chọn bản ghi để xóa!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Stop);
-            }
+            
         }
 
         private void dgvThongTinSanPham_CellClick(object sender, DataGridViewCellEventArgs e)
@@ -260,8 +233,11 @@ namespace QuanLiKhoBanHang
                             //string sGhichu = dgvThongTinSanPham.Rows[i].Cells["GhiChu"].Value==null ? string.Empty : dgvThongTinSanPham.Rows[i].Cells["GhiChu"].Value.ToString();
                             //insert += sGhichu + "')";
                             Dataconn.Execute_NonSQL(insert);
+                           
+                            
                         }
                         MessageBox.Show("Thêm phiếu nhập kho thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
                     }
 
                 }

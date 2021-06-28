@@ -269,7 +269,7 @@ namespace QuanLiKhoBanHang
             // 
             this.txtGhiChu.Border.Class = "TextBoxBorder";
             this.txtGhiChu.Border.CornerType = DevComponents.DotNetBar.eCornerType.Square;
-            this.txtGhiChu.Location = new System.Drawing.Point(483, 109);
+            this.txtGhiChu.Location = new System.Drawing.Point(474, 107);
             this.txtGhiChu.Multiline = true;
             this.txtGhiChu.Name = "txtGhiChu";
             this.txtGhiChu.PreventEnterBeep = true;
@@ -473,7 +473,6 @@ namespace QuanLiKhoBanHang
             this.txttugia.PreventEnterBeep = true;
             this.txttugia.Size = new System.Drawing.Size(78, 20);
             this.txttugia.TabIndex = 34;
-            this.txttugia.Text = "14000000";
             this.txttugia.TextChanged += new System.EventHandler(this.txttugia_TextChanged);
             // 
             // lbTu
@@ -515,7 +514,6 @@ namespace QuanLiKhoBanHang
             this.txtdengia.PreventEnterBeep = true;
             this.txtdengia.Size = new System.Drawing.Size(79, 20);
             this.txtdengia.TabIndex = 38;
-            this.txtdengia.Text = "20000000";
             this.txtdengia.TextChanged += new System.EventHandler(this.txtdengia_TextChanged);
             // 
             // lbTheogia
