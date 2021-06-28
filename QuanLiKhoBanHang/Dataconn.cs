@@ -20,7 +20,7 @@ namespace QuanLiKhoBanHang
         static Dataconn()
           
         {
-            source = @"Data Source=NGUYEN;Initial Catalog=QLKBH_HK;User ID=sa;Password=sa";
+            source = @"Data Source=DESKTOP-6ER7M2E;Initial Catalog=QLKBH_HK;Integrated Security=True";
             con = new SqlConnection(source);
             if (con.State == ConnectionState.Open)
             {
